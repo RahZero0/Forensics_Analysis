@@ -1,6 +1,10 @@
 # Forensics_Analysis
  Work in progress...
 
+pre-requesits
+download the file https://downloads.volatilityfoundation.org/volatility3/symbols/windows.zip
+to the location volatility3\symbols
+
 first 
 run this code after extracting the files:
 python runner.py
